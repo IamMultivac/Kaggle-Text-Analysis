@@ -3,3 +3,6 @@ from sklearn.svm import SVC
 from sklearn.feature_Selection import RFE
 from sklearn.metrics import roc_auc
 import pandas as pd
+
+def foo():
+    pass
