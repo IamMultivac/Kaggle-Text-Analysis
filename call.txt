@@ -1,4 +1,5 @@
 from sklearn.metrics import classification_report
 from sklearn.svm import SVC
 from sklearn.feature_Selection import RFE
-from sklearn import *
+from sklearn.metrics import roc_auc
+import pandas as pd
